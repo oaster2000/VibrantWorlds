@@ -21,3 +21,6 @@ The combination of all this experience has led to an interesting understanding o
 The point of this website and is to share some of my learning from all over the spectrum of my hobbies, but also to write down what I have been working on.
 
 HOWEVER! This does not mean that I won't be releasing some content for TTRPG players and also for worldbuilders and readers, heck there's even a chance for some prose being released in other parts of this website.
+
+# Main Projects
+- [[Vibrant Blog]]
