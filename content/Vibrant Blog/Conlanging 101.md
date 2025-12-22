@@ -3,6 +3,7 @@ title: Conlanging 101
 tags:
   - conlanging
   - worldbuilding
+  - blog
 draft: "true"
 description: An insight into starting conlanging, my steps and initial processes.
 ---

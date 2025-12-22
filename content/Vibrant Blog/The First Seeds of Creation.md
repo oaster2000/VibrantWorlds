@@ -2,8 +2,8 @@
 title: The First Seeds of Creation
 draft: "false"
 tags:
-  - blog
   - worldbuilding
+  - blog
 description: The first post of the Vibrant Blog, a look into the starts of worldbuilding.
 ---
 _by Owen (Vibrant Worlds)_
