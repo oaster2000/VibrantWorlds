@@ -7,7 +7,7 @@ tags:
 draft: "true"
 description: An insight into starting conlanging, my steps and initial processes.
 ---
-_by Owen (Vibrant Worlds)_
+*by Owen (Vibrant Worlds)*
 
 Over the course of the recent weeks, I've returned again to the great conversation of creating languages. There are many different elements to the idea of creating a language, from the beginnings of a phonological inventory and word building all the way through to tonal synthesis, auxiliary languages, and sonority-driven stress. 
 
