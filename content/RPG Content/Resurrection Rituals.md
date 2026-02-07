@@ -1,5 +1,5 @@
 ---
-title: Inspiration
+title: Resurrection Rituals
 tags:
   - rpg
   - dnd
